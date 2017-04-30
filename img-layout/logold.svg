@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 223.4 223.4" style="enable-background:new 0 0 223.4 223.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:url(#SVGID_1_);stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:url(#SVGID_2_);stroke-width:4;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:url(#SVGID_3_);stroke-width:4;stroke-miterlimit:10;}
+</style>
+<title>logo</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="108.8696" y1="146.75" x2="144.3904" y2="146.75">
+	<stop  offset="0" style="stop-color:#A87902"/>
+	<stop  offset="0.36" style="stop-color:#E8A600"/>
+	<stop  offset="0.45" style="stop-color:#DEA004"/>
+	<stop  offset="0.61" style="stop-color:#C28F10"/>
+	<stop  offset="0.65" style="stop-color:#BA8A13"/>
+	<stop  offset="0.7" style="stop-color:#C59110"/>
+	<stop  offset="0.81" style="stop-color:#DCA00B"/>
+	<stop  offset="0.91" style="stop-color:#EAA907"/>
+	<stop  offset="1" style="stop-color:#EFAC06"/>
+</linearGradient>
+<line class="st0" x1="110.8" y1="190.6" x2="142.5" y2="102.9"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="46.5468" y1="99.9401" x2="176.8332" y2="99.9401">
+	<stop  offset="0" style="stop-color:#A87902"/>
+	<stop  offset="0.36" style="stop-color:#E8A600"/>
+	<stop  offset="0.45" style="stop-color:#DEA004"/>
+	<stop  offset="0.61" style="stop-color:#C28F10"/>
+	<stop  offset="0.65" style="stop-color:#BA8A13"/>
+	<stop  offset="0.7" style="stop-color:#C59110"/>
+	<stop  offset="0.81" style="stop-color:#DCA00B"/>
+	<stop  offset="0.91" style="stop-color:#EAA907"/>
+	<stop  offset="1" style="stop-color:#EFAC06"/>
+</linearGradient>
+<polygon class="st1" points="111.7,13.3 149.2,120.1 174,190.6 108.3,190.6 49.4,190.6 "/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="0" y1="114.31" x2="223.38" y2="114.31" gradientTransform="matrix(1 0 0 -1 0 226)">
+	<stop  offset="0" style="stop-color:#A87902"/>
+	<stop  offset="0.36" style="stop-color:#E8A600"/>
+	<stop  offset="0.45" style="stop-color:#DEA004"/>
+	<stop  offset="0.61" style="stop-color:#C28F10"/>
+	<stop  offset="0.65" style="stop-color:#BA8A13"/>
+	<stop  offset="0.7" style="stop-color:#C59110"/>
+	<stop  offset="0.81" style="stop-color:#DCA00B"/>
+	<stop  offset="0.91" style="stop-color:#EAA907"/>
+	<stop  offset="1" style="stop-color:#EFAC06"/>
+</linearGradient>
+<circle class="st2" cx="111.7" cy="111.7" r="109.7"/>
+</svg>

@@ -1,0 +1,166 @@
+/*---------------HEADER------------------*/
+
+header 
+{
+	width: 100%;
+	border: solid;
+	border-bottom: 5px solid #404040; 
+	background: #000;
+	
+	h1{
+		width: 5%;
+		margin: 5px auto;
+		
+		img{ width: 100%; }
+	}
+	
+	@media screen and (max-width: 890px){
+		h1{ width: 45px; }
+	}
+	
+	@media screen and (max-width: 680px){
+		header h1{ width: 70px; }
+	}
+	
+	input{
+		width: 190px;
+		height: 30px;
+		padding-left: 15px;
+		position: absolute;
+		top: 30px;
+		right: 14%;
+		background: #000;
+		border: 1px solid #8f8f8f;
+		border-radius: 5px;
+		outline: none;
+	}
+
+	@media screen and (max-width: 1200px){
+		input{ top: 2px; }
+	}
+
+	@media screen and (max-width: 890px){
+		input{ display: none; }
+	}
+
+	button{
+		display: none;
+		position: absolute;
+		top: 20px;
+		left: 20px;
+		outline: none;
+		background: #000;
+		border: none;
+		
+		@media screen and (max-width: 890px){
+			img{ width: 25px; }
+		}
+	}
+
+	@media screen and (max-width: 1200px){
+		button{ display: initial }
+	}
+
+	@media screen and (max-width: 890px){
+		button{	top: 15px; }
+	}
+
+	@media screen and (max-width: 680px){
+		button{	background: #fff; }
+	}
+
+	.loupe{
+		width: 20px;
+		position: absolute;
+		top: 37px;
+		right: 14.5%;
+	
+		img{ width: 100% }
+	}
+
+	@media screen and (max-width: 1200px){
+	.loupe{ top: 8px }
+	}
+
+	@media screen and (max-width: 890px){
+		.loupe{	display: none ;	}
+	}
+	
+	#langue{
+		width: 70px;
+		height: 31px;
+		position: absolute;
+		top: 30px;
+		right: 6%;
+		border: 1px solid #8f8f8f;
+		border-radius: 5px;	
+
+		p{
+			padding: 3px 12px;
+			font-size: 1.8rem;
+			color: #8f8f8f;
+		}
+
+		img{
+			width: 15px;
+			position: absolute;
+			bottom: 7px;
+			right: 8%
+		}
+
+		@media screen and (max-width: 1200px){
+			img{ top: 8px }
+		}
+
+		@media screen and (max-width: 890px){
+			img{
+				top: 5px;
+				right: 10px;
+			}
+		}
+	}
+	
+	@media screen and (max-width: 1200px){
+		#langue{ top: 2px }
+	}
+
+	@media screen and (max-width: 890px){
+		#langue{
+			top: 10px;
+			right: 20px;
+		}
+	}
+
+	@media screen and (max-width: 1200px){
+		nav{ display: none }
+	}
+	
+	nav ul{
+		margin: 0 auto;
+		display: table;
+
+		li{
+			display: table-cell;
+			padding: 0 25px; 
+			font-size: 1.8rem;
+			text-transform: uppercase;
+
+			a{
+				text-decoration: none;
+				color: #fff;
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 890px){
+	header{	height: 60px }
+}
+
+@media screen and (max-width: 680px){
+	header{
+		border-bottom: 5px solid #404040; 
+		border: none;
+		background: #fff;
+	}
+}

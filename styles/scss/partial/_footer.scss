@@ -1,0 +1,121 @@
+/*---------------FOOTER------------------*/
+
+footer{
+	width: 100%;
+	margin-top: 3%;
+	position: relative;
+	background: #000;
+	clear: both;
+
+	img{ width: 100%; }
+
+	ul{
+		margin: 0 auto;
+		width: 20%;
+		float: left;
+		padding-top: 15px;
+		text-align: center;
+	}
+
+	@media screen and (max-width: 890px){
+		ul{
+			width: 100%;
+			height: 50px;
+			margin: 0 auto;
+			padding-top: 15px;
+			float: none;
+			overflow: hidden;
+			text-align: center;
+			border: solid 1px #2c2c2c;
+		}
+	}
+	
+	ul.reseaux li{ 
+		text-align: center; 
+		
+		h2{	width: 100%; }
+		
+		img{ width: 30px; }
+
+		@media screen and (max-width: 890px){
+			img{
+				width: 0;
+			}
+		}
+	}
+
+	@media screen and (max-width: 890px){
+		div.link{
+			width: 100%;
+			margin: 0 auto;
+		}
+	}
+
+	div.link{
+		width: 820;
+		margin: 0 auto;
+	}
+
+	@media screen and (max-width: 890px){
+		div.link{
+			width: 100%;
+			margin: 0 auto;
+		}
+	}
+
+
+	ul.lien{
+		/*padding-left: 10%;*/
+		width: 150px;
+		margin-left: 15%;
+		font-weight: 300;
+		font-size: 1.3rem;
+
+		li{ padding: 1px 0; }
+	}
+
+	@media screen and (max-width: 890px){	
+		ul.lien{
+			width: 100%;
+			margin-left: 0;
+			font-weight: 300;
+			font-size: 1.3rem;
+		}
+	}
+
+	h2{
+		padding-bottom: 15px;
+		font-weight: 500;
+		font-size: 1.6rem;
+		color: #fff; 
+	}
+
+	a{
+		text-decoration: none;
+		color: #fff;
+	}
+	
+	@media screen and (max-width: 890px){
+		ul.marques h2{
+			text-transform: uppercase;
+		}
+	}
+
+	ul.marques li img { width: 110px; }
+	
+	@media screen and (max-width: 890px){
+		ul.marques li img{ width: 0px; }
+	}
+
+	ul.contact li {
+		list-style: none;
+		padding: 1px;
+		color: #fff;
+	}
+
+	a.copyright{
+		display: block;
+		margin: 0 auto;
+		text-align: center;
+	}
+}
